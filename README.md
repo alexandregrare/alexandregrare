@@ -1,4 +1,4 @@
-# Hi, I'm Alexandre 👋
+# 🇫🇷 Hi, I'm Alexandre 👋
 
 I'm a passionate Fullstack Developer with a love for building scalable and efficient web applications. I enjoy working with both frontend and backend technologies to create seamless, user-friendly experiences. My goal is to write clean, maintainable code and always be learning new tools and frameworks.
 
